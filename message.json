@@ -1,0 +1,19 @@
+{
+    "allmessages":[
+        {
+            "contact": "nanbaosong",
+            "text": "今天天气怎么样",
+            "sendtime": "20220518204000"
+        },
+        {
+            "contact": "wenjianchuanshuzhushou",
+            "text": "hahahaha",
+            "sendtime": "20220518204100"
+        },
+        {
+            "contact": "nanbaosong",
+            "picture": "test",
+            "sendtime": "20220518204200"
+        }
+    ]
+}
